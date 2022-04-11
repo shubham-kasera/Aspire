@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+Array [
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#222222",
+          "fontFamily": "AvenirNextLTPro-Medium",
+          "fontSize": 19,
+        }
+      }
+    >
+      This is title
+    </Text>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#222222",
+              "fontFamily": "AvenirNextLTPro-Medium",
+              "fontSize": 19,
+            },
+            Object {
+              "color": "#01D167",
+            },
+          ]
+        }
+      >
+        S$345 
+      </Text>
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#222222",
+              "fontFamily": "AvenirNextLTPro-Medium",
+              "fontSize": 19,
+            },
+            Object {
+              "color": "#22222233",
+            },
+          ]
+        }
+      >
+        | S$5,000
+      </Text>
+    </View>
+  </View>,
+  <View
+    accessibilityRole="progressbar"
+    accessibilityState={
+      Object {
+        "busy": true,
+      }
+    }
+    accessibilityValue={
+      Object {
+        "max": 100,
+        "min": 0,
+        "now": 6.9,
+      }
+    }
+    accessible={true}
+    onLayout={[Function]}
+  >
+    <View
+      collapsable={false}
+      style={
+        Object {
+          "backgroundColor": "#e5faf0",
+          "borderRadius": 30,
+          "height": 15,
+          "marginTop": "2%",
+          "opacity": 0,
+          "overflow": "hidden",
+        }
+      }
+    />
+  </View>,
+]
+`;

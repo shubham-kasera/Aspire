@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "alignSelf": "flex-end",
+      "backgroundColor": "#fff",
+      "borderRadius": 6,
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "marginBottom": -22,
+      "opacity": 1,
+      "paddingBottom": 40,
+      "paddingHorizontal": "3%",
+      "paddingTop": 7,
+      "width": "45%",
+    }
+  }
+>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "color": "#01D167",
+          "fontSize": 36,
+        },
+        undefined,
+        Object {
+          "fontFamily": "Material Icons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#01D167",
+          "fontFamily": "AvenirNextLTPro-Demi",
+          "fontSize": 17.5,
+          "marginLeft": "2%",
+        },
+        undefined,
+      ]
+    }
+  >
+    This is chip
+  </Text>
+</View>
+`;

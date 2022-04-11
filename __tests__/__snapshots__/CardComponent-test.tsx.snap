@@ -1,0 +1,379 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#01D167",
+        "borderRadius": 12,
+        "flex": 1,
+        "height": 347,
+        "paddingHorizontal": "5%",
+        "paddingVertical": "3%",
+        "width": 675,
+      },
+      Object {
+        "elevation": 4,
+        "shadowColor": "#000",
+        "shadowOffset": Object {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 0.23,
+        "shadowRadius": 2.62,
+      },
+    ]
+  }
+>
+  <Image
+    resizeMode="contain"
+    source={
+      Object {
+        "testUri": "../../../src/assets/images/AspireLogo.png",
+      }
+    }
+    style={
+      Object {
+        "alignSelf": "flex-end",
+        "width": "22.5%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "justifyContent": "flex-end",
+        "marginTop": "2%",
+        "paddingBottom": "10%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#fff",
+          "fontFamily": "AvenirNextLTPro-Bold",
+          "fontSize": 32.5,
+        }
+      }
+    >
+      Mark Henry
+    </Text>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+          },
+          Object {
+            "marginTop": "9%",
+            "width": "85%",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        5
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        6
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        4
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        7
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+         
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        3
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        4
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        1
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        1
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+         
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        2
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        4
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        1
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        2
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+         
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        2
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        0
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        2
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 20.5,
+          }
+        }
+      >
+        0
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+          },
+          Object {
+            "height": "20%",
+            "marginTop": "4%",
+            "width": "54%",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "AvenirNextLTPro-Demi",
+            "fontSize": 19,
+          }
+        }
+      >
+        Thru: 
+        12/20
+      </Text>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            },
+            Object {
+              "justifyContent": "flex-start",
+              "width": "40%",
+            },
+          ]
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#fff",
+              "fontFamily": "AvenirNextLTPro-Demi",
+              "fontSize": 19,
+            }
+          }
+        >
+          CVV:
+        </Text>
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#fff",
+                "fontFamily": "AvenirNextLTPro-Demi",
+                "fontSize": 19,
+              },
+              Object {
+                "marginLeft": 5,
+              },
+            ]
+          }
+        >
+          456
+        </Text>
+      </View>
+    </View>
+    <Image
+      resizeMode="contain"
+      source={
+        Object {
+          "testUri": "../../../src/assets/images/VisaLogo.png",
+        }
+      }
+      style={
+        Object {
+          "alignSelf": "flex-end",
+          "bottom": 0,
+          "position": "absolute",
+          "width": "18%",
+        }
+      }
+    />
+  </View>
+</View>
+`;

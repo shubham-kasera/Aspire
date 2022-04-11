@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "height": 100,
+      "justifyContent": "space-between",
+      "paddingHorizontal": "5%",
+      "width": 750,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "height": "100%",
+        "justifyContent": "flex-end",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#fff",
+          "fontFamily": "AvenirNextLTPro-Bold",
+          "fontSize": 35,
+          "marginBottom": -10,
+        }
+      }
+    >
+      This is Header
+    </Text>
+  </View>
+  <Image
+    resizeMode="contain"
+    source={
+      Object {
+        "testUri": "../../../src/assets/images/Logo.png",
+      }
+    }
+    style={
+      Object {
+        "width": "7.5%",
+      }
+    }
+  />
+</View>
+`;
