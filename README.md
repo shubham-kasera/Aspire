@@ -30,6 +30,13 @@ npx react-native start
 ```
 You can also refer to available [npm scripts](https://github.com/skasera/Aspire/blob/master/package.json#L5).
 
+## Demo
+### ios
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/skasera/Aspire/blob/master/iOS_screen_recording.mp4)
+
+### android
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/skasera/Aspire/blob/master/android_screen_recording.mp4)
+
 ## Testing
 [Jest](https://jestjs.io/docs/tutorial-react-native) testing framework is used to test the components. To run the test, follow the steps below.
 
